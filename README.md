@@ -4,11 +4,12 @@
 
 I am a computer programmer from Belarusia🎓;
 
+
 Areas of interest:computer::
 
 :black_medium_square: Creation of applications for Windows:dvd:;
-
 :black_medium_square: WEB back-end development:globe_with_meridians:;
+
 
 I am currently actively studying and working with:
 
