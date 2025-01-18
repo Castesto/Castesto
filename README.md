@@ -7,7 +7,7 @@
 I am a computer programmer from Belarusia🎓;
 
 
-Areas of interest:computer::
+Areas of interest :computer::
 
 :black_medium_square: Creation of applications for Windows:dvd:;
 
